@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<UvData>
+	<C1>
+		<color>Green</color>
+		<Risk>Low</Risk>
+		<Protection> A UV Index reading of 0 to 2 means low danger from the sun's UV rays for the average person.
+			       Wear sunglasses on bright days. If you burn easily, cover up and use broad spectrum SPF 30+ sunscreen.
+			       Bright surfaces, such as sand, water and snow, will increase UV exposure.</Protection>
+	</C1>
+	<C2>
+		<color>Yellow</color>
+		<Risk>Moderate</Risk>
+		<Protection> A UV Index reading of 3 to 5 means moderate risk of harm from unprotected sun exposure. 
+			       Stay in shade near midday when the sun is strongest.
+			       If outdoors, wear sun protective clothing, a wide-brimmed hat, and UV-blocking sunglasses.
+			       Generously apply broad spectrum SPF 30+ sunscreen every 2 hours, even on cloudy days, and after swimming or sweating.
+			       Bright surfaces, such as sand, water and snow, will increase UV exposure.</Protection>
+	</C2>
+	<C3>
+		<color>Orange</color>
+		<Risk>High</Risk>
+		<Protection> A UV Index reading of 6 to 7 means high risk of harm from unprotected sun exposure.
+			       Protection against skin and eye damage is needed. Reduce time in the sun between 10 a.m. and 4 p.m.
+			       If outdoors, seek shade and wear sun protective clothing, a wide-brimmed hat, and UV-blocking sunglasses.
+			       Generously apply broad spectrum SPF 30+ sunscreen every 2 hours, even on cloudy days, and after swimming or sweating.
+			       Bright surfaces, such sand, water and snow, will increase UV exposure.</Protection>
+	</C3>
+	<C4>
+		<color>Red</color>
+		<Risk>Very High</Risk>
+		<Protection> A UV Index reading of 8 to 10 means very high risk of harm from unprotected sun exposure.
+			       Minimize sun exposure between 10 a.m. and 4 p.m.
+			       If outdoors, seek shade and wear sun protective clothing, a wide-brimmed hat, and UV-blocking sunglasses.
+			       Generously apply broad spectrum SPF 30+ sunscreen every 2 hours, even on cloudy days, and after swimming or sweating.
+			       Bright surfaces, such as sand, water and snow, will increase UV exposure.</Protection>
+	</C4>
+	<C5>
+		<color>Violet</color>
+		<Risk>Extreme</Risk>
+		<Protection> A UV Index reading of 11 or more means extreme risk of harm from unprotected sun exposure.
+			       Try to avoid sun exposure between 10 a.m. and 4 p.m.
+			       If outdoors, seek shade and wear sun protective clothing, a wide-brimmed hat, and UV-blocking sunglasses.
+			       Generously apply broad spectrum SPF 30+ sunscreen every 2 hours, even on cloudy days, and after swimming or sweating.</Protection>
+	</C5>
+	
+</UvData>
